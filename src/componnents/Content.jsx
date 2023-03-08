@@ -8,7 +8,7 @@ function Content() {
         <div className="contents">
            <div className="pic">
             <div className="detail-l">
-                <img src="\image\ohmm.jpg" alt="ohm" className='ohmm' />
+                <img src="public\image\ohmm.jpg" alt="ohm" className='ohmm' />
             </div>
            </div>
 
