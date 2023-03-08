@@ -16,10 +16,10 @@ function Header() {
                 <div className='media-buttons'>
                     <div className='eiei'>Follow me</div>
                     <a href="https://www.facebook.com/jirawut.sureerat" className="link">
-                        <img src="public\image\Facebook.png" alt="" />
+                        <img src="\public\image\Facebook.png" alt="" />
                     </a>
                     <a href="https://www.instagram.com/" className="link">
-                        <img src="public\image\Ig.png" alt="" />
+                        <img src="\public\image\Ig.png" alt="" />
                     </a>
                 </div>
                 <div className='b-button'>
@@ -33,7 +33,7 @@ function Header() {
             </div>
             <div className='profile-img'>
                 <div className='image'>
-                    <img src="public\image\ohmza.png" alt="img" className='profile-image' />
+                    <img src="\public\image\ohmza.png" alt="img" className='profile-image' />
                 </div>
             </div>
         </div>
