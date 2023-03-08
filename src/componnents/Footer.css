@@ -1,0 +1,33 @@
+
+.footer-bg {
+    
+    height: 1000px;
+    display: flex;
+    flex-direction: column;
+    background-color: wheat;
+}
+
+.header {
+    height: 20%;
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    justify-content: center;
+   
+}
+
+.portfolio {
+    height: 80%;
+    display: grid;
+    grid: auto auto / auto auto auto;
+    grid-gap: 50px;
+    margin: 0 25%;
+
+    
+}
+
+.port {
+    width: 310px;
+    height: 310px;
+    
+}
