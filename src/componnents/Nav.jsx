@@ -51,8 +51,8 @@ function Nav() {
           </li>
           <li>
             <Link
-              href="Jirawut_Sureerat_Resume.pdf"
-              download="Jirawut_Sureerat_Resume.pdf"
+              href="/Jirawut_Sureerat_Resume.pdf"
+              target="_blank"
               style={{ textDecoration: "none" }}
               color="white"
               p="16px 36px"
