@@ -3,13 +3,7 @@ import { Flex, Text, Image, Spacer, Box, Center, Link } from "@chakra-ui/react";
 
 function Content() {
   return (
-    <Flex
-    w="100vw"
-      h="800px"
-      alignItems="center"
-      flexDirection="column"
-      id="about-me"
-    >
+    <Flex h="800px" alignItems="center" flexDirection="column" id="about-me">
       <Flex
         mt={10}
         boxSize={400}
@@ -34,8 +28,7 @@ function Content() {
         </Text>
         <Text mb={2} textStyle="b1">
           However, I recently discovered that I enjoy programming more than
-          economics, so I decided to enroll in Tech Up to pursue my passion. As
-          for my hobbies,
+          economics, so I decided to enroll in TechUp to pursue my passion.
         </Text>
         <Text mb={2} textStyle="b1">
           I enjoy playing games, reading books, watching movies, listening to

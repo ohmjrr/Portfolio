@@ -17,7 +17,6 @@ function Nav() {
   return (
     <Flex
       h="100px"
-      w="100vw"
       justifyContent="space-between"
       alignItems="center"
       shadow="2xl"

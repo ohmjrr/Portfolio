@@ -4,7 +4,7 @@ import { AiFillGithub, AiFillLinkedin, AiFillInstagram } from "react-icons/ai";
 
 function Header() {
   return (
-    <Flex w="100vw" h="400px" flexDirection="column" alignItems="center">
+    <Flex h="400px" flexDirection="column" alignItems="center">
       <Flex
         flexDirection="column"
         textAlign="center"
@@ -17,7 +17,7 @@ function Header() {
         </Text>
         <Text textStyle="h4">a Full-Stack Developer</Text>
         <Text textStyle="b1" mt={10}>
-          Frontend developer based in Thailand, Bangkok.
+          I'm a software developer based in Thailand, Bangkok.
           <br /> I am coding with a clean and beautiful problem solving in mind
         </Text>
         <Flex mt={10} justifyContent="center" gap={10}>
