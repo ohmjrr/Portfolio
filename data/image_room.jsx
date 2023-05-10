@@ -11,38 +11,7 @@ const room = [
         title: "Weather API",
         image: "image/project/Weather API.jpg"
     },
-    {
-        title: "Form valid",
-        image: "/image/project/project-2.jpg"
-    },
-    {
-        title: "Form valid",
-        image: "/image/project/project-2.jpg"
-    },
-    {
-        title: "Form valid",
-        image: "/image/project/project-2.jpg"
-    },
-    {
-        title: "Form valid",
-        image: "/image/project/project-2.jpg"
-    },
-    {
-        title: "Form valid",
-        image: "/image/project/project-2.jpg"
-    },
-    {
-        title: "Form valid",
-        image: "/image/project/project-2.jpg"
-    },
-    {
-        title: "Form valid",
-        image: "/image/project/project-2.jpg"
-    },
-    {
-        title: "Form valid",
-        image: "/image/project/project-2.jpg"
-    },
+    
 ]
 
 export default room

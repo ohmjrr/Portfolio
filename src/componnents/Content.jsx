@@ -25,23 +25,23 @@ function Content() {
         ></Image>
       </Flex>
       <Flex flexDirection="column" textAlign="center" mt={10}>
-        <Text fontSize="40px" color="#FD836D" fontWeight="bold">
+        <Text textStyle="h3" color="#FD836D" fontWeight="bold">
           About me
         </Text>
-        <Text mt={30} mb={2}>
+        <Text mt={30} mb={2} textStyle="b1">
           Hello, my name is Jirawut Sureerat, but you can call me Ohm. I
           graduated from the Faculty of Economics at Kasetsart University.
         </Text>
-        <Text mb={2}>
+        <Text mb={2} textStyle="b1">
           However, I recently discovered that I enjoy programming more than
           economics, so I decided to enroll in Tech Up to pursue my passion. As
           for my hobbies,
         </Text>
-        <Text mb={2}>
+        <Text mb={2} textStyle="b1">
           I enjoy playing games, reading books, watching movies, listening to
           music, and in my free time, I like to study programming knowledge.
         </Text>
-        <Text mb={2}>
+        <Text mb={2} textStyle="b1">
           I'm interested in programming because as a programmer, one must
           constantly learn and adapt.
         </Text>

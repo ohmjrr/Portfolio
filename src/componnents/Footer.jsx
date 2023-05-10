@@ -15,11 +15,11 @@ function Footer() {
       alignItems="center"
       id="project"
     >
-      <Text fontSize="40px" color="#FD836D" fontWeight="bold">
+      <Text textStyle="h3" color="#FD836D" fontWeight="bold">
         Portforio
       </Text>
       <Flex
-        w="1300px"
+        w="600px"
         h="400px"
         mt={55}
         alignItems="center"
@@ -29,7 +29,7 @@ function Footer() {
         <Swiper
           modules={[Navigation, Pagination, Autoplay]}
           spaceBetween={1}
-          slidesPerView={3.5}
+          slidesPerView={1}
           grabCursor={true}
           centeredSlides={true}
           initialSlide={0}
@@ -55,7 +55,7 @@ function Footer() {
                     borderRadius="10px"
                     shadow="2xl"
                   ></Image>
-                  <Text mt={5} textAlign="center">
+                  <Text mt={5} textAlign="center" textStyle="b1">
                     {item.title}
                   </Text>
                 </Flex>
