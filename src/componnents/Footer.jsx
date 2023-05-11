@@ -116,7 +116,7 @@ function Footer() {
             </AlertDialog>
           </Box>
         </Box>
-        <Image src="/image/project/1683728058169.jpg" w="650px"></Image>
+        <Image src="/image/project/Capture.JPG" w="650px"></Image>
       </Flex>
       <Text mt={20} textStyle="h4" color="#FD836D">
         Mini-project
