@@ -26,12 +26,7 @@ function Footer() {
   const { isOpen, onOpen, onClose } = useDisclosure();
   const cancelRef = React.useRef();
   return (
-    <Flex
-      h="600px"
-      flexDirection="column"
-      alignItems="center"
-      id="project"
-    >
+    <Flex h="1200px" flexDirection="column" alignItems="center" id="project">
       <Text textStyle="h3" color="#FD836D" fontWeight="bold">
         Portforio
       </Text>
@@ -206,7 +201,7 @@ function Footer() {
               mr={30}
               className="button-next swiper-button-next"
             >
-              <AiOutlineArrowRight  onClick={onOpen}/>
+              <AiOutlineArrowRight onClick={onOpen} />
             </Icon>
           </Flex>
         </Swiper>
